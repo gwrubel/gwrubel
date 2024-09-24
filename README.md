@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gabriel Wrubel
 
-<!--
-**gwrubel/gwrubel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Eu sou Gabriel Wrubel, tenho 24 anos e estou no 5° período de Engenharia de Software. Ao longo da minha trajetória acadêmica, tive a oportunidade de explorar diversas tecnologias e aprofundar meus conhecimentos em diferentes áreas do desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias com as quais já trabalhei:
+- **Linguagens de Programação**: JavaScript, Java, C++
+- **Frameworks e Bibliotecas**: React
+- **Banco de Dados**: PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projetos
+- Desenvolvi alguns projetos utilizando **React**, **JavaScript** e **Java** buscando sempre aplicar boas práticas de desenvolvimento e trabalhar com interfaces dinâmicas e eficientes.
+
+## 🌱 O que estou aprendendo atualmente
+- Estou constantemente aprimorando minhas habilidades em **JavaScript** e explorando mais a fundo o **Node.js** e o desenvolvimento backend.
+  
+## 📫 Como me encontrar
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gabriel-wrubel-640a89247/)
+
+Sinta-se à vontade para explorar meus repositórios e projetos!
+
