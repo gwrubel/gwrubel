@@ -3,7 +3,7 @@
 👋 Olá! Eu sou Gabriel Wrubel, tenho 24 anos e estou no 5° período de Engenharia de Software. Ao longo da minha trajetória acadêmica, tive a oportunidade de explorar diversas tecnologias e aprofundar meus conhecimentos em diferentes áreas do desenvolvimento de software.
 
 ## 🚀 Tecnologias com as quais já trabalhei:
-- **Linguagens de Programação**: JavaScript, Java, C++
+- **Linguagens de Programação**: JavaScript, Java, C
 - **Frameworks e Bibliotecas**: React
 - **Banco de Dados**: PostgreSQL
 
