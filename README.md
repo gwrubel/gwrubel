@@ -14,7 +14,7 @@
 - Estou constantemente aprimorando minhas habilidades em **JavaScript** e explorando mais a fundo o **Node.js** e o desenvolvimento backend.
   
 ## 📫 Como me encontrar
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/gabriel-wrubel-640a89247/)
+- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/gabriel-wrubel-640a89247/)
 
 Sinta-se à vontade para explorar meus repositórios e projetos!
 
