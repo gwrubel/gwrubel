@@ -4,7 +4,7 @@
 
 ## 🚀 Tecnologias com as quais já trabalhei:
 - **Linguagens de Programação**: JavaScript, Java e C
-- **Frameworks e Bibliotecas**: React
+- **Frameworks e Bibliotecas**: React, Spring Boot e Quarkus 
 - **Banco de Dados**: PostgreSQL
 
 ## 💻 Projetos
