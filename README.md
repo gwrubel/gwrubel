@@ -1,17 +1,34 @@
-# Gabriel Wrubel
+Gabriel Wrubel
+👋 Olá! Eu sou Gabriel Wrubel, tenho 25 anos e atualmente curso o 6° período de Engenharia de Software. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender novas ferramentas e boas práticas para criar soluções eficientes e escaláveis.
 
-👋 Olá! Eu sou Gabriel Wrubel, tenho 25 anos e estou no 6° período de Engenharia de Software. Ao longo da minha trajetória acadêmica, tive a oportunidade de explorar diversas tecnologias e aprofundar meus conhecimentos em diferentes áreas do desenvolvimento de software.
+🧠 Habilidades Técnicas
+🎨 Front-end
+Linguagens: JavaScript, TypeScript
 
-## 🚀 Tecnologias com as quais já trabalhei:
-- **Linguagens de Programação**: JavaScript, Java e C
-- **Frameworks e Bibliotecas**: React, Next, Spring Boot e Quarkus 
-- **Banco de Dados**: PostgreSQL
+Frameworks e Bibliotecas: React, Next.js
 
-## 💻 Projetos
-- Desenvolvi alguns projetos utilizando **React**, **Next**, **JavaScript** e **Java** buscando sempre aplicar boas práticas de desenvolvimento e trabalhar com interfaces dinâmicas e eficientes.
-  
-## 📫 Como me encontrar
-- LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/gabriel-wrubel-640a89247/)
+Estilização: CSS3, Tailwind CSS
 
-Sinta-se à vontade para explorar meus repositórios e projetos!
+🔧 Back-end
+Linguagens: Java, TypeScript
+
+Frameworks: Spring Boot, Node.js (Express)
+
+Banco de Dados: PostgreSQL
+
+💻 Projetos
+Tenho trabalhado em projetos que integram tanto o front-end quanto o back-end, aplicando conceitos de arquitetura de software, integração de APIs, e design responsivo.
+
+Utilização de React e Next.js para interfaces modernas e interativas
+
+Desenvolvimento de APIs REST com Spring Boot e Node.js
+
+Integração com bancos de dados PostgreSQL, seguindo boas práticas de modelagem
+
+➡️ Confira os repositórios para ver meus projetos na prática!
+
+📫 Como me encontrar
+💼 LinkedIn
+
+📂 Aqui no GitHub: explore meus repositórios!
 
