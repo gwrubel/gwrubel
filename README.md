@@ -2,6 +2,7 @@
 👋 Olá! Eu sou Gabriel Wrubel, tenho 25 anos e atualmente curso o 6° período de Engenharia de Software. Sou apaixonado por tecnologia e desenvolvimento, sempre buscando aprender novas ferramentas e boas práticas para criar soluções eficientes e escaláveis.
 
 🧠 Habilidades Técnicas
+
 🎨 Front-end
 Linguagens: JavaScript, TypeScript
 
