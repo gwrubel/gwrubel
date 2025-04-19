@@ -29,8 +29,5 @@ Integração com bancos de dados PostgreSQL, seguindo boas práticas de modelage
 
 ➡️ Confira os repositórios para ver meus projetos na prática!
 
-📫 Como me encontrar
-💼 LinkedIn
 
-📂 Aqui no GitHub: explore meus repositórios!
 
