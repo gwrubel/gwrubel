@@ -18,6 +18,7 @@ Frameworks: Spring Boot, Node.js (Express)
 Banco de Dados: PostgreSQL
 
 💻 Projetos
+
 Tenho trabalhado em projetos que integram tanto o front-end quanto o back-end, aplicando conceitos de arquitetura de software, integração de APIs, e design responsivo.
 
 Utilização de React e Next.js para interfaces modernas e interativas
