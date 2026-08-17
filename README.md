@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou Gabriel Wrubel
 
-Engenheiro de Software e desenvolvedor Full Stack, com foco em **Java, Spring Boot, React, Next.js e TypeScript**.
+Engenheiro de Software e Desenvolvedor Full Stack, com foco em **Java, Spring Boot, React, Next.js e TypeScript**.
 
-Atuo no desenvolvimento de aplicações web e sistemas completos, desde o levantamento de requisitos e modelagem até a implementação de frontend, backend, banco de dados e integração entre serviços.
+Tenho experiência no desenvolvimento de aplicações web e sistemas completos, atuando desde a análise de requisitos e modelagem até a implementação de backend, frontend e banco de dados.
 
-Tenho interesse especial em **backend, arquitetura de software, APIs REST e construção de soluções escaláveis**, além de experiência prática com projetos acadêmicos e sistemas desenvolvidos para necessidades reais de clientes.
+Atualmente, meu foco está em evoluir cada vez mais em **backend com Java e Spring Boot, arquitetura de software, APIs REST e construção de aplicações escaláveis e bem estruturadas**.
 
 ---
 
@@ -39,65 +39,21 @@ Tenho interesse especial em **backend, arquitetura de software, APIs REST e cons
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 💻 Projetos em destaque
+## 🧠 Conhecimentos
 
-### 🔧 MecList
-
-Sistema de gestão para oficinas mecânicas desenvolvido com **Java, Spring Boot, React e PostgreSQL**.
-
-A aplicação centraliza processos como:
-
-* gerenciamento de clientes e veículos;
-* criação de checklists digitais;
-* orçamentos e ordens de serviço;
-* autenticação e diferentes perfis de usuário;
-* histórico de manutenção dos veículos.
-
-O projeto envolve desde a modelagem da aplicação até o desenvolvimento da API REST, frontend e banco de dados.
-
----
-
-### 💊 Sistema de Gestão de Preços de Medicamentos
-
-Aplicação desktop desenvolvida com **Electron, React, TypeScript, Node.js e SQLite**.
-
-O sistema foi projetado para automatizar processos como:
-
-* importação e processamento de NF-e em XML;
-* cadastro e atualização de produtos e fornecedores;
-* histórico de custos;
-* processamento de dados da tabela CMED;
-* aplicação de regras de negócio para precificação.
-
----
-
-### 🌐 Schinemann Assessoria e Consultoria
-
-Website institucional desenvolvido com **Next.js, TypeScript e Tailwind CSS**.
-
-Projeto criado a partir das necessidades reais do cliente, com foco em:
-
-* interface responsiva;
-* experiência mobile;
-* apresentação de serviços;
-* presença digital profissional.
-
----
-
-## 🧠 Atualmente
-
-Aprofundando conhecimentos em:
-
+* Desenvolvimento de APIs REST
+* Programação Orientada a Objetos
 * Arquitetura de Software
-* Desenvolvimento Backend com Java e Spring Boot
-* APIs REST
-* Modelagem de Dados
-* Testes Automatizados
+* Modelagem de Banco de Dados
+* Autenticação e Autorização com JWT
+* Integração entre frontend e backend
+* Aplicações responsivas
+* Versionamento com Git e GitHub
 * Docker
+* Testes automatizados
 * Boas práticas de desenvolvimento
 
 ---
@@ -106,7 +62,7 @@ Aprofundando conhecimentos em:
 
 <div align="center">
 
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwrubel\&show_icons=true\&hide_border=true)
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwrubel\&show_icons=true\&hide_border=true\&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwrubel\&layout=compact\&hide_border=true)
 
@@ -126,4 +82,4 @@ Aprofundando conhecimentos em:
 
 ---
 
-⭐ Sempre buscando transformar ideias e necessidades reais em soluções de software bem estruturadas.
+> Construindo software com foco em organização, clareza e evolução contínua.
