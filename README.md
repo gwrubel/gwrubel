@@ -58,15 +58,16 @@ Atualmente, meu foco está em evoluir cada vez mais em **backend com Java e Spri
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Em evolução
 
-<div align="center">
+Atualmente aprofundando conhecimentos em:
 
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=gwrubel\&show_icons=true\&hide_border=true\&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gwrubel\&layout=compact\&hide_border=true)
-
-</div>
+* Java e ecossistema Spring
+* Arquitetura de aplicações
+* Clean Code e organização de projetos
+* Testes automatizados
+* Docker e ambientes de desenvolvimento
+* Boas práticas para APIs REST
 
 ---
 
